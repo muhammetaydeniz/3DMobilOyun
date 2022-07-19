@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118619365085",
+    "firebase_url": "https://kayacollerde-default-rtdb.firebaseio.com",
+    "project_id": "kayacollerde",
+    "storage_bucket": "kayacollerde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118619365085:android:a3088bd9933c35f69a0534",
+        "android_client_info": {
+          "package_name": "com.DUGame.KayaInDesert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118619365085-bqoug7m07kuu4nslu516e4slictrod6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpYOMyTXwrsdDxvP-Hj6IZk93PG0lGeg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118619365085-bqoug7m07kuu4nslu516e4slictrod6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
